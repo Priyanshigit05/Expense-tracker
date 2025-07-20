@@ -1,9 +1,6 @@
 
 # Expense Management System using MERN Stack
 
-### Live Website: https://main.d1sj7cd70hlter.amplifyapp.com/
-
-### Vercel Link: https://expense-tracker-app-three-beryl.vercel.app/
 
 ## Project Description:
 
@@ -67,12 +64,7 @@ Support attaching receipts or other relevant documents to expense entries.
 
     Implement Mongoose ORM for schema definition and validation.
 
-- Deployment:
 
-    Deploy the application to a cloud provider like AWS and render.
-    frontend has deployed on AWS and backend on Render.
-
-    Set up Continuous Integration and Continuous Deployment (CI/CD) pipelines for automated builds and deployments.
 ## Run Locally
 
 Clone the project
