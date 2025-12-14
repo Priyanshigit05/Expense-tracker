@@ -34,7 +34,7 @@ Support attaching receipts or other relevant documents to expense entries.
 
     Provide a visual dashboard displaying an overview of the user's expenses, including total expenses, expenses by category, and recent transactions.
 
-    Generate reports based on selected date ranges and categories, displaying pie charts and bar graphs to help users understand their spending patterns.
+    Generate reports based on selected date ranges and categories, displaying charts to help users understand their spending patterns.
     
 
 - Responsive User Interface:
@@ -56,7 +56,7 @@ Support attaching receipts or other relevant documents to expense entries.
 
     Use Node.js and Express.js to build a RESTful API for handling client requests and serving as the application's backend.
 
-    Implement authentication and authorization using JSON Web Tokens (JWT) and middleware to protect endpoints.
+    Implement authentication and authorization using bcrypt and middleware to protect endpoints.
 
 - Database:
 
@@ -123,7 +123,7 @@ create config folder and add config.env file in it and all all env variables the
 
 ## Tech Stack
 
-**Client:** React, Redux, react-bootstrap, Material Icons, tsparticles
+**Client:** React, react-bootstrap, Material Icons
 
 **Server:** Node, Express
 
